@@ -5,4 +5,5 @@
 
 ## 3.[大数据运维](https://github.com/daemonman/itstory/blob/master/springboot/README.md)
 
-*[md常用语法](https://github.com/guodongxiaren/README)*
+*[github的md常用语法](https://github.com/guodongxiaren/README)*
+*[csdn的markdown常见用法(https://mp.csdn.net/mdeditor#)]
