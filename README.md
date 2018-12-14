@@ -3,4 +3,4 @@
 
 2.[spark](https://github.com/daemonman/itstory/blob/master/springboot/README.md)
 
-3.[HD大数据常见运维]（https://github.com/daemonman/itstory/blob/master/springboot/README.md）
+3.[HD大数据常见运维](https://github.com/daemonman/itstory/blob/master/springboot/README.md)
